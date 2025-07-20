@@ -1,1 +1,3 @@
-# htmlcls2
+# html project for class 2
+
+This is my htlm project.
